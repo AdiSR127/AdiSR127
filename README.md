@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AdiSR127" alt="adisr127" /></a> </p>
 
-- 💬 Ask me about **Techology and Coding**
+- 💬 Ask me about **Technology and Coding**
 
 - 📫 How to reach me **adiusingh127@gmail.com**
 
