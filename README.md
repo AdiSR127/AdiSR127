@@ -7,9 +7,11 @@
 
 - 💬 Ask me about **Technology and Coding**
 
+- 💻 Former Intern at **Adobe Systems**
+
 - 📫 How to reach me **adiusingh127@gmail.com**
 
-- 💻 Former Intern at **ADOBE Systems**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
