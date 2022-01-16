@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **Technology and Coding**
 
-- 💻 Former Intern at **Adobe Systems** <a href="https://www.adobe.com/in/" target="blank"><img align="center" src="https://iconape.com/wp-content/files/vk/369251/svg/adobe-logo-icon-png-svg.png" alt="adobe" height="30" width="40" /></a>
+- 💻 Former Intern at **Adobe Systems** <a href="https://www.adobe.com/in/" target="blank"><img align="center" src="https://iconape.com/wp-content/files/vk/369251/svg/adobe-logo-icon-png-svg.png" alt="adobe" height="10" width="10" /></a>
 
 - 📫 How to reach me **adiusingh127@gmail.com**
 
